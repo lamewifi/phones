@@ -14,11 +14,11 @@ iphone 6 plus
 $31.24/mo
 $299.99
 $749.99
-samsung galaxy s6 edge
+galaxy s6 edge
 $29.16/mo
 $299.99
 $699.99
-samsung galaxy s6
+galaxy s6
 $24.99/mo
 $199.99
 $599.99
@@ -50,79 +50,15 @@ droid turbo
 $22.91/mo
 $149.99
 $549.99
-moto x 2nd gen
+moto x 
 $20.83/mo
 $0.99
 $499.99
-htc one m8
+one m8
 $24.99/mo
 $199.99
 $599.99
-htc one m9
-$24.99/mo
-$199.99
-$599.99
-iphone 5c
-$18.74/mo
-$0.99
-$449.99
-iphone 5s
-$22.91/mo
-$99.99
-$549.99
-iphone 6
-$27.08/mo
-$199.99
-$649.99
-iphone 6 plus
-$31.24/mo
-$299.99
-$749.99
-samsung galaxy s6 edge
-$29.16/mo
-$299.99
-$699.99
-samsung galaxy s6
-$24.99/mo
-$199.99
-$599.99
-galaxy s 5
-$20.83/mo
-$99.99
-$499.99
-galaxy s 4
-$24.99/mo
-$199.99
-$599.99
-galaxy note 4
-$29.16/mo
-$299.99
-$699.99
-galaxy note edge
-$33.33/mo
-$399.99
-$799.99
-g3
-$18.74/mo
-$99.99
-$449.99
-g2
-$18.74/mo
-$99.99
-$449.99
-droid turbo
-$22.91/mo
-$149.99
-$549.99
-moto x 2nd gen
-$20.83/mo
-$0.99
-$499.99
-htc one m8
-$24.99/mo
-$199.99
-$599.99
-htc one m9
+one m9
 $24.99/mo
 $199.99
 $599.99
